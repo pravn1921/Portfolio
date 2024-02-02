@@ -24,7 +24,7 @@ const Hero = () => {
               <h1 className='h1'>Hello, My name is Praveen R</h1>
               <p className='subtitle max-w-[500px] mx-auto xl:mx-0'>
                 Student pursuing MCA with a keen interest in Technologies and looking 
-                for a Job Oppertunity to showcase my practical skills.
+                for a Job Oppertunity to showcase my Practical Skills.
               </p>
 
               <div className='flex flex-col gap-y-3 md:flex-row gap-x-3 mx-auto xl:mx-0
