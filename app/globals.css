@@ -94,3 +94,9 @@
   shadow-2xl p-4 rounded-[10px] flex items-center
   gap-x-4;
 }
+
+.swiper-horizontal > .section-pagination-bullets .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets
+.swiper-pagination-bullet {
+  @apply bg-primary;
+}
