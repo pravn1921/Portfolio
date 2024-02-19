@@ -45,14 +45,7 @@ const Hero = () => {
             <div className='hidden xl:flex relative'>
               {/*badge 1*/}
               <Badge 
-              containerStyles='absolute top-[24%] -left-[7rem]'
-              icon={<RiBriefcase4Fill />} 
-              endCountNum={0}
-              badgeText='Years of Experience (Student)'
-              />
-              {/*badge 2*/}
-              <Badge 
-              containerStyles='absolute top-[80%] -left-[4rem]'
+              containerStyles='absolute top-[60%] -left-[6rem]'
               icon={<RiTodoFill />} 
               endCountNum={5}
               badgeText='Projects Completed'

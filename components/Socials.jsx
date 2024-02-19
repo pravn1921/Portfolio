@@ -7,23 +7,19 @@ import Link from 'next/link';
 
 const icons = [
   {
-    path: '/',
+    path: 'https://www.linkedin.com/in/pravn/',
     name: <RiLinkedinFill />,
   },
   {
-    path: '/',
+    path: 'https://github.com/pravn1921',
     name: <RiGithubFill />,
   },
   {
-    path: '/',
+    path: 'https://www.instagram.com/_pravn.__/',
     name: <RiInstagramFill />,
   },
   {
-    path: '/',
-    name: <RiTwitterFill />,
-  },
-  {
-    path: '/',
+    path: 'https://web.telegram.org/a/',
     name: <RiTelegramLine />,
   },
 ];

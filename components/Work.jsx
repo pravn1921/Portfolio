@@ -18,8 +18,8 @@ const projectData =[
         category: 'Next JS',
         name: 'Spotify Clone',
         description: "A dynamic music streaming platform using Next.js, Supabase, PostgreSQL and Stripe for payment processing.",
-        link: '/',
-        github: '/',
+        link: 'https://spotify-clone-prav.vercel.app/',
+        github: 'https://github.com/pravn1921/Spotify-Clone',
     },
     {
         image: '/work/fac 1.png',
@@ -27,7 +27,7 @@ const projectData =[
         name: 'Faculty Subject Management System',
         description: "Web application to computerizes the storage and retrieval of faculty personal and academic records.",
         link: '/',
-        github: '/',
+        github: 'https://github.com/pravn1921/Faculty-Subject-Expert-Management-System',
     },
     {
         image: '/work/movue hub.png',
@@ -35,7 +35,7 @@ const projectData =[
         name: 'MovieHub',
         description: "A static website to search all hollywood movies using an external API. This projectt was developed using Reactjs.",
         link: '/',
-        github: '/',
+        github: 'https://github.com/pravn1921/MovieHub',
     },
     {
         image: '/work/crime.png',
@@ -43,7 +43,7 @@ const projectData =[
         name: 'Crime Report Management System',
         description: "Web-based application for reporting online crimes, storing records, and assigning cases to authorities.",
         link: '/',
-        github: '/',
+        github: 'https://github.com/pravn1921/Crime-Report-Management-System',
     },
 ];
 
