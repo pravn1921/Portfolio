@@ -7,20 +7,20 @@ import { Textarea } from "./ui/textarea";
 
 const Form = () => {
   return (
-    <form className="flex flex-col gap-y-4">
+    <form method='POST' action="https://getform.io/f/Pe9q0xeL" className="flex flex-col gap-y-4">
         {/* input */}
         <div className="relative flex items-center">
-            <Input type='name' id='name' placeholder='Name' />
+            <Input name='name' id='name' placeholder='Name' />
             <User className="absolute right-6" size={20} />
         </div>
         {/* input */}
         <div className="relative flex items-center">
-            <Input type='email' id='email' placeholder='Email' />
+            <Input name='email' id='email' placeholder='Email' />
             <MailIcon className="absolute right-6" size={20} />
         </div>
         {/* textarea */}
         <div className="relative flex items-center">
-            <Textarea placeholder='Drop your message...' />
+            <Textarea name='message' placeholder='Drop your message...' />
             <MessageSquare className="absolute top-4 right-6" size={20} />
         </div>
         <Button className='flex items-center gap-x-2 max-w-[166px]'>
