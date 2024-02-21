@@ -9,14 +9,14 @@ import {
 
 const servicesData =[
     {
-        icon: <GanttChartSquare size={72} strokeWidth={0.8} 
+        icon: <Blocks size={72} strokeWidth={0.8} 
         className='hover:-translate-y-5 hover:scale-125 duration-200' 
         />,
         title: 'Web Development',
         description: 'Practical experience in Web Development by building websites and applications using technologies like HTML, Tailwind CSS, JavaScript, ReactJS, NextJS, NodeJS, and MongoDB.',
     },
     {
-        icon: <Blocks size={72} strokeWidth={0.8} 
+        icon: <GanttChartSquare size={72} strokeWidth={0.8} 
         className='hover:-translate-y-5 hover:scale-125 duration-200'
         />,
         title: 'Java',
