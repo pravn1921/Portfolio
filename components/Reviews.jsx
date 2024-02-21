@@ -15,37 +15,37 @@ const reviewsData = [
     {
         avatar: '/reviews/avatar-1.png',
         name: 'Naresh Kumar',
-        job: 'Software Engineer',
+        job: 'Student (Web Developer)',
         review:
-        'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis dolor ipsa accusantium pariatu.',
+        'Hard working and passionate towards technologies, highly supportive individual.',
     },
     {
         avatar: '/reviews/avatar-2.png',
         name: 'Santhosh Sivan',
-        job: 'UI/UX Designer',
+        job: 'Student (UI/UX)',
         review:
-        'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis dolor ipsa accusantium pariatu.',
+        'Strong dedication to learning and excels in his technical skills. ',
     },
     {
         avatar: '/reviews/avatar-3.png',
         name: 'Mohana Prawin',
-        job: 'Developer',
+        job: 'Student (Web Developer)',
         review:
-        'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis dolor ipsa accusantium pariatu.',
+        'Always eager to take on new challenges and work well in a team with good communication skills',
     },
     {
         avatar: '/reviews/avatar-4.png',
         name: 'Prakash Gopal',
-        job: 'Business Analyst',
+        job: 'Student (Web Developer)',
         review:
-        'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis dolor ipsa accusantium pariatu.',
+        'Quick learner and has a good understanding of programming languages and software development.',
     },
     {
         avatar: '/reviews/avatar-5.png',
         name: 'Srinivasan',
-        job: 'Software Architect',
+        job: 'Student (Web Developer)',
         review:
-        'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis dolor ipsa accusantium pariatu.',
+        'Strong analytical mindset and problem-solving abilities.',
     },
 ];
 
