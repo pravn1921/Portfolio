@@ -17,7 +17,7 @@ const reviewsData = [
         name: 'Naresh Kumar',
         job: 'Student (Web Developer)',
         review:
-        'Hard working and passionate towards technologies, highly supportive individual.',
+        'Hard working and passionate towards technologies, highly supportive individual and attentive to details.',
     },
     {
         avatar: '/reviews/avatar-2.png',
