@@ -33,10 +33,12 @@ const Hero = () => {
                   <Button className='gap-x-2'>
                     Contact me <Send size={18} />
                   </Button>
-                </Link>
-                <Button variant='secondary' className='gap-x-2'>
+                </Link> 
+                <a href='/PRAVEEN-MCA.pdf'>
+                  <Button variant='secondary' className='gap-x-2'>
                     Resume<Download size={18} />
                   </Button>
+                </a>
               </div>
               {/* Social */}
               <Socials containerStyles='flex gap-x-6 mx-auto xl:mx-0'
