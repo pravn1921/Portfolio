@@ -19,11 +19,11 @@ const Hero = () => {
             <div className='flex max-w-[600px] flex-col justify-center mx-auto xl:mx-0
             text-center xl:text-left'>
               <div className='text-sm uppercase font-semibold mb-4 text-primary tracking-[4px]'>
-                Web Developer
+                Fresher
               </div>
               <h1 className='h1'>Hello, My name is Praveen R</h1>
               <p className='subtitle max-w-[500px] mx-auto xl:mx-0'>
-                Student pursuing MCA with a keen interest in Technologies and looking 
+                Individual with a keen interest in Technologies and looking 
                 for a Job Oppertunity to showcase my Practical Skills.
               </p>
               {/* git */}
@@ -34,7 +34,7 @@ const Hero = () => {
                     Contact me <Send size={18} />
                   </Button>
                 </Link> 
-                <a href='/PRAVEEN-MCA.pdf'>
+                <a href='/PRAVEEN R-MCA.pdf'>
                   <Button variant='secondary' className='gap-x-2'>
                     Resume<Download size={18} />
                   </Button>
