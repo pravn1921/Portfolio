@@ -46,7 +46,7 @@ const qualificationData = [
             {
                 university: 'Kongu Engineering College, Erode',
                 qualification: 'Master of Computer Applications',
-                years: '2022 - Present',
+                years: '2022 - 2024',
             },
             {
                 university: 'Thiagarajar College, Madurai',
@@ -73,13 +73,13 @@ const skillData = [
                 name: 'SQL',
             },
             {
+                name: 'HTML, CSS',
+            },
+            {
                 name: 'JavaScript',
             },
             {
                 name: 'ReactJS',
-            },
-            {
-                name: 'SupaBase',
             },
             {
                 name: 'MongoDB',
@@ -140,10 +140,10 @@ const About = () => {
                             <TabsContent value='personal'>
                                 <div className='text-center xl:text-left'>
                                     <h3 className='h3 mb-4'>
-                                        MCA Student with keen interest in Technology.
+                                        Fresher with keen interest in Technology.
                                     </h3>
                                     <p className='subtitle max-w-xl mx-auto xl:mx-0'>
-                                    Extremely motivated student having a desire to succeed in the profession and a strong passion for technology. 
+                                    Extremely motivated individual having a desire to succeed in the profession and a strong passion for technology. 
                                     </p>
                                     {/* icons */}
                                     <div className='grid xl:grid-cols-2 gap-4 mb-12'>
