@@ -34,7 +34,7 @@ const Hero = () => {
                     Contact me <Send size={18} />
                   </Button>
                 </Link> 
-                <a href='/PRAVEEN R-MCA.pdf'>
+                <a href='/PRAVEEN R.pdf'>
                   <Button variant='secondary' className='gap-x-2'>
                     Resume<Download size={18} />
                   </Button>
@@ -45,13 +45,6 @@ const Hero = () => {
               iconStyles='text-foreground text-[22px] hover:text-primary transition-all'/>
             </div>
             <div className='hidden xl:flex relative'>
-              {/*badge 1*/}
-              <Badge 
-              containerStyles='absolute top-[60%] -left-[6rem]'
-              icon={<RiTodoFill />} 
-              endCountNum={5}
-              badgeText='Projects Completed'
-              />
               
               <div className='bg-hero_shape2_light dark:bg-hero_shape2_dark
               w-[500px] h-[500px] bg-no-repeat absolute -top-1 -right-2'></div>

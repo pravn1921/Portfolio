@@ -23,7 +23,7 @@ const infoData = [
     },
     {
         icon: <MailIcon size={20} />,
-        text: 'praveenrajesh2001@gmail.com',
+        text: 'praveenr.rajesh@gmail.com',
     },
     {
         icon: <Calendar size={20} />,
@@ -76,13 +76,16 @@ const skillData = [
                 name: 'HTML, CSS',
             },
             {
+                name: 'Tailwind CSS',
+            },
+            {
+                name: 'Bootstrap',
+            },
+            {
                 name: 'JavaScript',
             },
             {
                 name: 'ReactJS',
-            },
-            {
-                name: 'MongoDB',
             },
         ],
     },

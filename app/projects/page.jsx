@@ -37,6 +37,14 @@ const projectData =[
       link: '/',
       github: 'https://github.com/pravn1921/Crime-Report-Management-System',
   },
+  {
+      image: '/work/careerhook.png',
+      category: 'React JS',
+      name: 'CareerHook - Job Portal',
+      description: "CareerHook features a comprehensive range of job listings, allowing employers to post vacancies and job seekers to apply easily, fostering a dynamic job market environment",
+      link: 'https://careerhook.vercel.app/',
+      github: 'https://github.com/pravn1921/CareerHook',
+  },
 ];
 
 const uniqueCategories = [
